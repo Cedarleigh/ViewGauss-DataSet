@@ -24,6 +24,16 @@ While 4D Gaussian splatting has become a promising technique for photorealistic 
 
 Videos were reconstructed using HiFi4G recordings featuring dynamic human actions (e.g., dancing, walking) and diverse attire. Each session was conducted in a controlled environment with calibrated devices to ensure signal stability and fidelity.
 
+## Data Collection Process
+
+Each participant wore a Vive Focus Vision HMD and freely viewed the Gaussian splatting videos in a controlled lab environment. All sessions were tracked in real time, and head pose data were synchronized with video playback using Unity and OpenXR.
+
+The following image captures a typical moment during the recording session:
+
+<img src="figures/1.jpg" alt="Data Collection in Progress" width="600"/> <img src="figures/2.jpg" alt="Data Collection in Progress" width="600"/>
+
+*Figure: A participant during a live recording session. Head movements were captured at 10Hz while viewing 4D Gaussian splatting sequences in VR.*
+
 ## Technical Details
 
 - High-resolution tracking with millimeter precision  
