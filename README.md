@@ -40,7 +40,7 @@ To illustrate the spatial characteristics of user behavior during 4D Gaussian sp
 
 The figure below shows the spatial distribution of head positions in the viewing space. Most users remain within a tightly bounded region around the origin (±0.3 meters), indicating that they tend to adjust their view through small corrective motions rather than large spatial movements.
 
-![3D Head Position Distribution](figures/head_position_distribution.png)
+![3D Head Position Distribution](figures/figure1.png)
 
 *Figure 1: 3D distribution of head positions for all participants. Each blue dot represents a sampled head location. Spatial dispersion results from natural variation in height and initial stance.*
 
@@ -48,7 +48,7 @@ The figure below shows the spatial distribution of head positions in the viewing
 
 We also visualize the distribution of viewing directions using unit quaternion data converted into direction vectors. The majority of gaze vectors are concentrated within a ±30° cone, suggesting a strong forward-facing attention bias in Gaussian splatting environments.
 
-![View Direction Polar Plot](figures/viewing_angle_distribution.png)
+![View Direction Polar Plot](figures/figure2.png)
 
 *Figure 2: Polar plot of head orientation. Most view directions lie within the user’s primary field of view, forming a narrow cone.*
 
