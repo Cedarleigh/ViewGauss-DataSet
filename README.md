@@ -92,4 +92,18 @@ This dataset can be used for:
 
 This dataset is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+## Citation
+
+If you use this dataset in your research, please cite our paper:
+
+```bibtex
+@misc{viewgauss2025,
+  author = {Zhixia Zhao, Qiyue Li, Zhi Liu, Jie Li, Richang Hong},
+  title = {ViewGauss: A Head Movement Dataset for 6DoF 4D Gaussian Video Viewing},
+  year = {2025},
+  note = {Submitted for publication},
+  url = {https://github.com/Cedarleigh/ViewGauss-DataSet}
+}
+
+
 
